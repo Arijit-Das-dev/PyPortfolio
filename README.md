@@ -5,7 +5,7 @@ A curated collection of my Python projects covering Data Analytics, Machine Lear
 
 ---
 <br>
-# 📌 About This Repository
+# About This Repository
 
 This repository contains multiple independent Python projects created for learning, practice, and portfolio purposes. Each project focuses on a specific concept such as:
 
@@ -22,38 +22,7 @@ This repository contains multiple independent Python projects created for learni
 
 6. All projects are written with readability and simplicity in mind.
 
-
----
-
-📂 Project Structure
-
-python-projects/
-│
-├── project_1_name/
-│   ├── main.py
-│   ├── README.md
-│   └── requirements.txt
-│
-├── project_2_name/
-│   ├── script.py
-│   └── data/
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── utils/
-│   └── helper_functions.py
-│
-└── README.md
-
-> Each project folder contains its own logic and, where required, a separate README explaining usage.
-
-
-
-
----
-
-🚀 Projects Overview
+# 🚀 Projects Overview
 
 1️⃣ Project Name
 
