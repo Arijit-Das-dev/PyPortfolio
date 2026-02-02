@@ -44,9 +44,8 @@ This repository contains multiple independent Python projects created for learni
 # How to Run:
 
 python main.py
-
-
 ---
+<br>
 
 2️⃣ Project Name
 
