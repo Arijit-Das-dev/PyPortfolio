@@ -31,9 +31,9 @@ This repository contains multiple independent Python projects created for learni
 
 2. Key Concepts Used:
 
-Python basics
+3. Python basics
 
-Loops & conditions
+4. Loops & conditions
 
 Functions
 
