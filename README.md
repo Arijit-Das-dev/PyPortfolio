@@ -22,13 +22,14 @@ This repository contains multiple independent Python projects created for learni
 
 6. All projects are written with readability and simplicity in mind.
 
+<br>
 # 🚀 Projects Overview
 
 1️⃣ Project Name
 
-Description: Brief explanation of what the project does and the problem it solves.
+1. Description: Brief explanation of what the project does and the problem it solves.
 
-Key Concepts Used:
+2. Key Concepts Used:
 
 Python basics
 
