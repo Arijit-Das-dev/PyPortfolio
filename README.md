@@ -35,9 +35,9 @@ This repository contains multiple independent Python projects created for learni
 
 4. Loops & conditions
 
-Functions
+5. Functions
 
-File handling / Data structures (if applicable)
+6. File handling / Data structures (if applicable)
 
 
 How to Run:
