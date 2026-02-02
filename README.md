@@ -53,9 +53,9 @@ Description: Explain the idea behind the project and expected output.
 
 Technologies & Libraries:
 
-Python 3.x
+→ Python 3.x
 
-NumPy / Pandas (if used)
+→ NumPy / Pandas (if used)
 
 
 Output: Console output / file generation / visualization
