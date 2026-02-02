@@ -39,8 +39,9 @@ This repository contains multiple independent Python projects created for learni
 
 6. File handling / Data structures (if applicable)
 
+<br>
 
-How to Run:
+# How to Run:
 
 python main.py
 
