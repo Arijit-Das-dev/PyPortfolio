@@ -1,28 +1,26 @@
 # PyPortfolio
-
-🐍 Python Projects Collection
-
+<br>
 A curated collection of my Python projects covering Data Analytics, Machine Learning basics, problem‑solving, and practical utilities. This repository is intended to demonstrate my understanding of Python fundamentals, clean coding practices, and real‑world problem solving.
 
 
 ---
-
-📌 About This Repository
+<br>
+# 📌 About This Repository
 
 This repository contains multiple independent Python projects created for learning, practice, and portfolio purposes. Each project focuses on a specific concept such as:
 
-Python fundamentals
+1. Python fundamentals
 
-Data handling & analysis
+2. Data handling & analysis
 
-Algorithms & logic building
+3. Algorithms & logic building
 
-Beginner‑friendly ML concepts
+4. Beginner‑friendly ML concepts
 
-Small automation or utility scripts
+5. Small automation or utility scripts
 
 
-All projects are written with readability and simplicity in mind.
+6. All projects are written with readability and simplicity in mind.
 
 
 ---
